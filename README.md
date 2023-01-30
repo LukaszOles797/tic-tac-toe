@@ -1,4 +1,4 @@
-#Tic-Tac-Toe 
+# Tic-Tac-Toe 
 
 Program simulates simple Tic-Tac-Toe game (User vs Computer). 
 During the game user has to enter integers (from 1 to 9), such interaction results in making a move (letter "O" is displayed on the board).
